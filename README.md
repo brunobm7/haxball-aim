@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/26101900/README.md)
 # 🎯 HaxBall Aim Assist
 
 Mira de trajetória em tempo real para HaxBall. Funciona 100% online, sem modificar o servidor.
